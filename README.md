@@ -50,7 +50,7 @@ Excel – Data cleaning and transformation
 
 1️⃣ Clone the Repository
 
-git clone https://github.com/your-username/Stock-Data-Analysis.git
+git clone https://github.com/akuldatt/Stock-Data-Analysis.git
 cd Stock-Data-Analysis
 
 2️⃣  Open the Dashboard
@@ -80,5 +80,5 @@ Contributions are welcome! Feel free to fork this repo and submit a pull request
 ## 📬 Contact
 
 For any queries or suggestions, reach out via:
-📧 Email: akuldatt08@gmail.com🌐 GitHub: akuldatt
+📧 Email: akuldatt08@gmail.com🌐 GitHub: @akuldatt
 
