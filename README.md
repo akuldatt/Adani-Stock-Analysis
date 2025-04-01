@@ -9,7 +9,7 @@ A Power BI dashboard providing insights into Adani Enterprises stock data, inclu
 
 ## File Contents
 - `Stock Market Analysis.pbix` - Power BI dashboard file.
-- `data.csv` - Raw stock data source file.
+- `Quote-Equity-ADANIENT-EQ-31-03-2024-to-31-03-2025` - Raw stock data source file.
 
 ## Instructions
 Upload the `PBIX` file into Power BI Desktop or the Power BI service to view and interact with the dashboard.
