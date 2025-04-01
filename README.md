@@ -8,7 +8,7 @@ A Power BI dashboard providing insights into Adani Enterprises stock data, inclu
 - Dynamic daily trends and monthly summaries.
 
 ## File Contents
-- `Stock MArket Analysis.pbix` - Power BI dashboard file.
+- `[Stock MArket Analysis.pbix](https://github.com/akuldatt/Adani-Stock-Analysis/blob/main/Stock%20Market%20Analysis.pbix)` - Power BI dashboard file.
 - `data.csv` - Raw stock data source file.
 
 ## Instructions
